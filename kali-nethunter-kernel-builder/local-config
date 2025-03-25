@@ -1,0 +1,13 @@
+DO_DTBO=true
+
+DO_DTB=true
+
+DTB_VER=2
+
+KERNEL_IMAGE=$KDIR/arch/arm64/boot/$IMAGE_NAME
+
+DTB_IN=$KDIR/arch/arm64/boot/dts/samsung
+
+MODULE_DIRTREE="/vendor/lib/modules"
+
+MODULES_IN=$BUILD_DIR/modules_out/lib/modules
