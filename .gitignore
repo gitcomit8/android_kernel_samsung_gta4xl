@@ -130,5 +130,7 @@ kernel/configs/android-*.cfg
 scripts/crypto/__pycache__/
 scripts/fmp/__pycache__/
 
-#Binary
+#Kernel Builder
 kali-nethunter-kernel-builder/out/vmlinux
+kali-nethunter-kernel-builder/tools
+kali-nethunder-kernel-builder/local.config.examples
