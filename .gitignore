@@ -129,3 +129,6 @@ kernel/configs/android-*.cfg
 # Samsung
 scripts/crypto/__pycache__/
 scripts/fmp/__pycache__/
+
+#Binary
+kali-nethunter-kernel-builder/out/vmlinux
